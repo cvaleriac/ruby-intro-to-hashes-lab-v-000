@@ -4,7 +4,9 @@ new_hash = {}
  new_hash
 
 def actor
-
+actor = {
+	[:name] = "Brad Pitt"
+}
 end
 
 def monopoly
